@@ -1,0 +1,23 @@
+package br.com.softex
+
+public class Empresa {
+      public static void main(String[] args) {
+           System.out.printLn("Relação empresa");
+           
+      }
+     
+    
+} 
+
+---------------------------------------------------------
+
+package br.com.softex.funcionario;
+
+public class Funcionario {
+      public static void main(String[] args) {
+           System.out.printLn("Funcionarios Softex");
+           
+      }
+     
+    
+} 
